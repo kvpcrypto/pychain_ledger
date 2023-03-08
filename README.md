@@ -1,5 +1,3 @@
-# UWFinTechModule18
-
 # PyChain Ledger
 
 This ledger is one of the many application of blockchain technologies. The focus of this app is to create a simple user experience of making transactions on a blockchain with the help of 'Streamlit' to build the web interfaces for this python application.
